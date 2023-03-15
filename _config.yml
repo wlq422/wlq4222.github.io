@@ -6,18 +6,18 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: 김재이
+title: student
+email: wlq422@naver.com 
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: 010-3933-5984
 # phone_title: Phone (Phone title override)
 website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
-
+darkmode: true
+ m m
 # Social links
 twitter_username: jekyllrb
 github_username:  jekyll
